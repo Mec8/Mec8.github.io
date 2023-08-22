@@ -15,14 +15,14 @@ http://example.com/
 http://example.com/tags/Linux/
 http://example.com/tags/%E7%BC%96%E7%A8%8B/
 http://example.com/tags/Hadoop/
-http://example.com/tags/Azkaban/
 http://example.com/tags/Flume/
-http://example.com/tags/Tomcat/
+http://example.com/tags/Azkaban/
 http://example.com/tags/Sqoop/
+http://example.com/tags/Tomcat/
 http://example.com/tags/Zabbix/
 http://example.com/tags/Zookeeper/
-http://example.com/tags/%E7%BD%91%E7%BB%9C/
 http://example.com/tags/hive/
+http://example.com/tags/%E7%BD%91%E7%BB%9C/
 http://example.com/tags/%E5%B8%AE%E5%8A%A9/
 http://example.com/categories/Linux/
 http://example.com/categories/%E7%BC%96%E7%A8%8B/
