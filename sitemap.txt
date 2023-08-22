@@ -16,8 +16,8 @@ http://example.com/tags/Linux/
 http://example.com/tags/%E7%BC%96%E7%A8%8B/
 http://example.com/tags/Hadoop/
 http://example.com/tags/Azkaban/
-http://example.com/tags/Sqoop/
 http://example.com/tags/Flume/
+http://example.com/tags/Sqoop/
 http://example.com/tags/Tomcat/
 http://example.com/tags/Zabbix/
 http://example.com/tags/Zookeeper/
