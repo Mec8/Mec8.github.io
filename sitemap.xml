@@ -178,14 +178,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Hadoop/</loc>
+    <loc>http://example.com/tags/Ansible/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Azkaban/</loc>
+    <loc>http://example.com/tags/Hadoop/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -199,14 +199,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Ansible/</loc>
-    <lastmod>2024-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Tomcat/</loc>
+    <loc>http://example.com/tags/Azkaban/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -214,6 +207,13 @@
   
   <url>
     <loc>http://example.com/tags/Zabbix/</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Tomcat/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -248,14 +248,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <loc>http://example.com/tags/Web/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Web/</loc>
+    <loc>http://example.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -285,13 +285,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%B8%AE%E5%8A%A9/</loc>
-    <lastmod>2024-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/Hadoop/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -299,7 +292,21 @@
   </url>
   
   <url>
+    <loc>http://example.com/categories/%E5%B8%AE%E5%8A%A9/</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Web/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -314,13 +321,6 @@
   
   <url>
     <loc>http://example.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2024-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/Web/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
